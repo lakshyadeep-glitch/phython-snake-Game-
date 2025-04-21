@@ -50,4 +50,4 @@ Coming soon...
 
 ## 💡 Author
 
-Made with ❤️ by Lakshya Deep Ningwal
+Made with ❤️ by Lakshya Deep 
