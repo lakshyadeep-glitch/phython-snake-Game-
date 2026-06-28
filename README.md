@@ -17,7 +17,7 @@ Your goal is to eat the red food to grow and increase your score. The game ends 
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Live score tracking   
 - High score system  
