@@ -48,6 +48,4 @@ Coming soon...
 
 ---
 
-## Author
-
-Made with ❤️ by Lakshya Deep 
+BY LAkshya :)
